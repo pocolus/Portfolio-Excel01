@@ -1,6 +1,6 @@
 #**PORTFOLIO – EXCEL 01**
 
-**•	TITULO**: INDICADORES DE SALUD Y DESARROLLO: PERSPECTIVAS GLOBALES.
+**•	TITULO: INDICADORES DE SALUD Y DESARROLLO: PERSPECTIVAS GLOBALES.**
 
 **•	DESCRIPCION DEL PROYECTO:** Se impulso una recopilación completa de indicadores de salud y desarrollo de todo el mundo. Este conjunto de datos proporciona una comprensión profunda de varios aspectos, incluida la accesibilidad a la atención médica, la prevalencia de enfermedades, el nivel educativo, el crecimiento económico y más. Al analizar estos conocimientos globales, los investigadores, y los formuladores de políticas, obtienen perspectivas valiosas para informar estrategias que promuevan una atención médica equitativa, un desarrollo sostenible y una mejor calidad de vida en todo el mundo.
 
